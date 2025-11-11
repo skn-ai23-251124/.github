@@ -10,3 +10,11 @@ class Teacher:
     def __init__(self):
         self.name = "김종민"
         self.email = "capybara@helloworldlabs.kr"
+
+## 🔍 Lecture Sources
+
+### 💡 Lecture
+
+| Chapter | Repository |
+|----------|-------------|
+| python | [Python basic lecture sources](#) |
