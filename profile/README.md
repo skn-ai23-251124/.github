@@ -1,0 +1,12 @@
+# 🌱 SKN 23th
+> SK네트웍스 Family AI 캠프 23기
+
+---
+
+## 👩‍🏫 담당 강사
+
+```python
+class Teacher:
+    def __init__(self):
+        self.name = "김종민"
+        self.email = "capybara@helloworldlabs.kr"
