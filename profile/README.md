@@ -18,4 +18,4 @@ class Teacher:
 
 | Chapter | Repository |
 |----------|-------------|
-| python | [Python basic lecture sources](#) |
+| python | [Python basic lecture sources](https://github.com/skn-ai23-251124/python_basic.git) |
