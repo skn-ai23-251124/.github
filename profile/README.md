@@ -20,5 +20,5 @@ class Teacher:
 | Chapter | Repository |
 |----------|-------------|
 | python | [Python basic lecture sources](https://github.com/skn-ai23-251124/python_basic.git) |
-| database | [Python basic lecture sources](https://github.com/skn-ai23-251124/database.git) |
-| web crawling | [Python basic lecture sources](https://github.com/skn-ai23-251124/web_crawling.git) |
+| database | [database lecture sources](https://github.com/skn-ai23-251124/database.git) |
+| web crawling | [Web_crawling lecture sources](https://github.com/skn-ai23-251124/web_crawling.git) |
