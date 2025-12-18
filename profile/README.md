@@ -24,3 +24,5 @@ class Teacher:
 | database | [database lecture sources](https://github.com/skn-ai23-251124/database.git) |
 | python_db_connection | [mysql_connection lecture sources](https://github.com/skn-ai23-251124/mysql_connection.git) |
 | web crawling | [Web_crawling lecture sources](https://github.com/skn-ai23-251124/web_crawling.git) |
+| data analysis | [data analysis lecture sources](https://github.com/skn-ai23-251124/data_anaysis.git) |
+| ML | [ML lecture sources](https://github.com/skn-ai23-251124/ML.git) |
