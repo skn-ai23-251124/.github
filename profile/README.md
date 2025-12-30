@@ -26,3 +26,4 @@ class Teacher:
 | web crawling | [Web_crawling lecture sources](https://github.com/skn-ai23-251124/web_crawling.git) |
 | data analysis | [data analysis lecture sources](https://github.com/skn-ai23-251124/data_anaysis.git) |
 | ML | [ML lecture sources](https://github.com/skn-ai23-251124/ML.git) |
+| DL | [DL_lecture_sources](https://github.com/skn-ai23-251124/DL.git) |
