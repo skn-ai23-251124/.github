@@ -27,3 +27,5 @@ class Teacher:
 | data analysis | [data analysis lecture sources](https://github.com/skn-ai23-251124/data_anaysis.git) |
 | ML | [ML lecture sources](https://github.com/skn-ai23-251124/ML.git) |
 | DL | [DL_lecture_sources](https://github.com/skn-ai23-251124/DL.git) |
+| model validation | [Model_validation_lecture_sources](https://github.com/skn-ai23-251124/model_validation.git) |
+| NLP | [NLP_lecture_sources](https://github.com/skn-ai23-251124/nlp.git) |
