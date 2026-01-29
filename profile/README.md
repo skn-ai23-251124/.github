@@ -29,3 +29,4 @@ class Teacher:
 | DL | [DL_lecture_sources](https://github.com/skn-ai23-251124/DL.git) |
 | model validation | [Model_validation_lecture_sources](https://github.com/skn-ai23-251124/model_validation.git) |
 | NLP | [NLP_lecture_sources](https://github.com/skn-ai23-251124/nlp.git) |
+| LLM | [LLM_lecture_sources](https://github.com/skn-ai23-251124/LLM.git)
