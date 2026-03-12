@@ -32,3 +32,4 @@ class Teacher:
 | LLM | [LLM_lecture_sources](https://github.com/skn-ai23-251124/LLM.git) |
 | 멀티모달 | [MultiModal_lecture_sources](https://github.com/skn-ai23-251124/multimodal.git) |
 | 화면 구현 | [Web_Client_lecture_sources](https://github.com/skn-ai23-251124/web_client.git) |
+| Django | [Web_Server_lecture_sources](https://github.com/skn-ai23-251124/web_server.git) |
